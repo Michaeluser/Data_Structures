@@ -1,6 +1,6 @@
 # Red-Black Tree & Hash Table — C Implementation
 
-The implementations were done during subject DSA_B at FIIT STU.\
+The implementations were done during subject DSA_B at FIIT STU.\\
 C implementations of two fundamental data structures — a **Red-Black Tree (RBT)** and a **Hash Table (HT)** — along with a benchmarking harness that measures insert, search, and delete performance for both.
 
 ## Data Structures
